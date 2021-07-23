@@ -1,0 +1,3 @@
+[submodule "GitInPracticeSubModule01"]
+	path = GitInPracticeSubModule01
+	url = git@github.com:hoasung01/GitInPracticeSubModule01.git
